@@ -1,0 +1,17 @@
+{
+  "name": "crypto-vue-apollo-client-20",
+  "version": "1.0.0",
+  "description": "This is a basic cryptocurrency rates tracker built with apollo-client 2.0 and vue-apollo 3.0.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vuetify": "0.17.0-beta.1",
+    "vue-apollo": "3.0.0-alpha.1",
+    "vue": "2.5.2",
+    "graphql-tag": "2.4.1",
+    "graphql": "0.11.7",
+    "apollo-link-http": "1.1.0",
+    "apollo-client": "2.0.1",
+    "apollo-cache-inmemory": "1.0.0"
+  }
+}
